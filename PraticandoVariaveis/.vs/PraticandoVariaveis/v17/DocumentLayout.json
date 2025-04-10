@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\DotNet\\PraticandoVariaveis\\PraticandoVariaveis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A34A4D4-7F26-4C0A-95E5-15EBC7607E86}|PraticandoVariaveis.csproj|c:\\git\\dotnet\\praticandovariaveis\\praticandovariaveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A34A4D4-7F26-4C0A-95E5-15EBC7607E86}|PraticandoVariaveis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\DotNet\\PraticandoVariaveis\\PraticandoVariaveis\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Git\\DotNet\\PraticandoVariaveis\\PraticandoVariaveis\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T00:27:20.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
